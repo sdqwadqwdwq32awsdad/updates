@@ -1,5 +1,4 @@
-В меню киро есть:                The Kiro menu includes:
-
+1В меню киро есть:                The Kiro menu includes:
 Бой                              Combat
 • Трассеры                       • Tracers
 • Автошапки                      • Auto Hats
@@ -8,7 +7,6 @@
 • Авто удар                      • Auto Attack
 • Авто моде036                   • Auto Mode036
 • Авто капы                      • Auto Traps
-
 Визуал                           Visuals
 • Трекер инвизок                 • Invisible Player Tracker
 • Таймер ночи                    • Night Timer
@@ -30,7 +28,6 @@
 • Визуальный значок              • Visual Badge
 • Визуальный скин                • Visual Skin
 • Рандом скин                    • Random Skin
-
 Помощники                        Helpers
 • Выгрузка файлов приватки       • Private Server File Export
 • Уведомления сломанных построек • Building Destruction Alerts
@@ -49,7 +46,6 @@
 • Быстрые бусты                  • Fast Boost Pads
 • Автопополнение расходников     • Auto Refill Consumables
 • Автоподбор                     • Auto Pickup
-
 Конфиги                          Configs
 • Сохранение нового конфига      • Save New Config
 • Загрузка                       • Load
