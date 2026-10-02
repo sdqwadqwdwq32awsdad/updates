@@ -1,0 +1,115 @@
+В меню киро есть:
+Бой
+Трассеры
+Автошапки
+Автоотражение
+Аимбот
+Авто удар
+Авто моде036
+Авто капы
+Визуал
+Трекер инвизок
+Таймер ночи
+Без ночного затемнения
+Детектор капканов
+Запоминание капканов
+Цвет кнопки «Поднять»
+Башни рд
+Радиус бочек
+Время до постройки
+Количество предметов на полу
+Переливающийся ник
+Активные бинды
+Мап хак
+Отображение ХП
+Без ограничения фпс
+Зум
+Партиклы
+Визуальный значок
+Визуальный скин
+Рандом скин
+Помощники
+Выгрузка файлов приватки
+Уведомления сломанных построек
+Выпавшие предметы
+Ограничение пакетов
+Клеар пакет
+Авто лив
+Реконнект
+Перевод чата
+Чат спам
+Пробелы в матах
+Итем свапы глор дог
+Фаст билд
+Преследование
+Поворот блоков
+Быстрые бусты
+Автопополнение расходников
+Автоподбор
+Конфиги
+Сохранение нового конфига
+Загрузка
+Перезапись
+Удаление
+
+The Kiro menu includes:
+
+Combat
+
+Tracers
+Auto Hats
+Auto Reflect
+Aimbot
+Auto Attack
+Auto Mode036
+Auto Traps
+
+Visuals
+
+Invisible Player Tracker
+Night Timer
+No Night Darkness
+Trap Detector
+Trap Memory
+Pickup Button Color
+Tower Range & Reload
+Barrel Blast Radius
+Construction Timer
+Ground Item Counts
+Rainbow Nickname
+Active Keybinds
+Map Hack
+HP Display
+Unlimited FPS
+Zoom
+Particles
+Visual Badge
+Visual Skin
+Random Skin
+
+Helpers
+
+Private Server File Export
+Building Destruction Alerts
+Dropped Items
+Packet Limiter
+Clear Packet
+Auto Leave
+Reconnect
+Chat Translator
+Chat Spam
+Profanity Spacing
+Item Swaps Glor Dog
+Fast Build
+Follow Player
+Block Rotation
+Fast Boost Pads
+Auto Refill Consumables
+Auto Pickup
+
+Configs
+
+Save New Config
+Load
+Overwrite
+Delete
