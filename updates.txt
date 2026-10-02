@@ -1,115 +1,57 @@
-В меню киро есть:
-Бой
-Трассеры
-Автошапки
-Автоотражение
-Аимбот
-Авто удар
-Авто моде036
-Авто капы
-Визуал
-Трекер инвизок
-Таймер ночи
-Без ночного затемнения
-Детектор капканов
-Запоминание капканов
-Цвет кнопки «Поднять»
-Башни рд
-Радиус бочек
-Время до постройки
-Количество предметов на полу
-Переливающийся ник
-Активные бинды
-Мап хак
-Отображение ХП
-Без ограничения фпс
-Зум
-Партиклы
-Визуальный значок
-Визуальный скин
-Рандом скин
-Помощники
-Выгрузка файлов приватки
-Уведомления сломанных построек
-Выпавшие предметы
-Ограничение пакетов
-Клеар пакет
-Авто лив
-Реконнект
-Перевод чата
-Чат спам
-Пробелы в матах
-Итем свапы глор дог
-Фаст билд
-Преследование
-Поворот блоков
-Быстрые бусты
-Автопополнение расходников
-Автоподбор
-Конфиги
-Сохранение нового конфига
-Загрузка
-Перезапись
-Удаление
+В меню киро есть:                The Kiro menu includes:
 
-The Kiro menu includes:
+Бой                              Combat
+• Трассеры                       • Tracers
+• Автошапки                      • Auto Hats
+• Автоотражение                  • Auto Reflect
+• Аимбот                         • Aimbot
+• Авто удар                      • Auto Attack
+• Авто моде036                   • Auto Mode036
+• Авто капы                      • Auto Traps
 
-Combat
+Визуал                           Visuals
+• Трекер инвизок                 • Invisible Player Tracker
+• Таймер ночи                    • Night Timer
+• Без ночного затемнения         • No Night Darkness
+• Детектор капканов              • Trap Detector
+• Запоминание капканов           • Trap Memory
+• Цвет кнопки «Поднять»          • Pickup Button Color
+• Башни рд                       • Tower Range & Reload
+• Радиус бочек                   • Barrel Blast Radius
+• Время до постройки             • Construction Timer
+• Количество предметов на полу   • Ground Item Counts
+• Переливающийся ник             • Rainbow Nickname
+• Активные бинды                 • Active Keybinds
+• Мап хак                        • Map Hack
+• Отображение ХП                 • HP Display
+• Без ограничения фпс            • Unlimited FPS
+• Зум                            • Zoom
+• Партиклы                       • Particles
+• Визуальный значок              • Visual Badge
+• Визуальный скин                • Visual Skin
+• Рандом скин                    • Random Skin
 
-Tracers
-Auto Hats
-Auto Reflect
-Aimbot
-Auto Attack
-Auto Mode036
-Auto Traps
+Помощники                        Helpers
+• Выгрузка файлов приватки       • Private Server File Export
+• Уведомления сломанных построек • Building Destruction Alerts
+• Выпавшие предметы              • Dropped Items
+• Ограничение пакетов            • Packet Limiter
+• Клеар пакет                    • Clear Packet
+• Авто лив                       • Auto Leave
+• Реконнект                      • Reconnect
+• Перевод чата                   • Chat Translator
+• Чат спам                       • Chat Spam
+• Пробелы в матах                • Profanity Spacing
+• Итем свапы глор дог            • Item Swaps Glor Dog
+• Фаст билд                      • Fast Build
+• Преследование                  • Follow Player
+• Поворот блоков                 • Block Rotation
+• Быстрые бусты                  • Fast Boost Pads
+• Автопополнение расходников     • Auto Refill Consumables
+• Автоподбор                     • Auto Pickup
 
-Visuals
-
-Invisible Player Tracker
-Night Timer
-No Night Darkness
-Trap Detector
-Trap Memory
-Pickup Button Color
-Tower Range & Reload
-Barrel Blast Radius
-Construction Timer
-Ground Item Counts
-Rainbow Nickname
-Active Keybinds
-Map Hack
-HP Display
-Unlimited FPS
-Zoom
-Particles
-Visual Badge
-Visual Skin
-Random Skin
-
-Helpers
-
-Private Server File Export
-Building Destruction Alerts
-Dropped Items
-Packet Limiter
-Clear Packet
-Auto Leave
-Reconnect
-Chat Translator
-Chat Spam
-Profanity Spacing
-Item Swaps Glor Dog
-Fast Build
-Follow Player
-Block Rotation
-Fast Boost Pads
-Auto Refill Consumables
-Auto Pickup
-
-Configs
-
-Save New Config
-Load
-Overwrite
-Delete
+Конфиги                          Configs
+• Сохранение нового конфига      • Save New Config
+• Загрузка                       • Load
+• Перезапись                     • Overwrite
+• Удаление                       • Delete
